@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
     <img src="https://lagesan.github.io/images/OBS.png" 
          width="80" height="80" 
          style="border-radius: 50%; border: 1px solid lightgrey;">
