@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="https://schoolent.cn/assets/schoolent-logo-1fW53NZm.png" 
-         width="80" height="80" 
+    <img src="https://raw.githubusercontent.com/Lagesan/Lagesan/main/assets/schoolent-logo.png" 
+         width="auto" height="80" 
          style="border-radius: 50%; border: 1px solid lightgrey;">
          <h2 style="margin:0 0;">Lagesan</h2>
 </div>
