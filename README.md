@@ -9,7 +9,6 @@
 <div align="center">
     
 ##### 在爱发电上支持我们 Sponsor us on Afdian
-    
-[![Sponsor Us](https://img.shields.io/badge/Sponsor%20Us-%23fa5477?style=for-the-badge&logo=github&logoColor=white)](https://afdian.com/a/lagesan)
+[![Sponsor Us](https://img.shields.io/badge/Sponsor%20Us-fa5477?style=plastic&logo=githubsponsors&logoColor=white)](https://afdian.com/a/lagesan)
 
 </div>
